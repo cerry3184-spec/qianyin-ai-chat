@@ -70,7 +70,7 @@ src/
 │       └── index.vue        # 侧边栏组件
 ├── hooks/
 │   ├── useTheme.ts          # 主题切换 Hook
-│   └── useVirtualScroll.ts  # 虚拟滚动 Hook
+│   └── useVirtualScroll.ts  # 虚拟滚动 Hook（待应用）
 ├── router/
 │   └── index.ts             # 路由配置
 ├── store/

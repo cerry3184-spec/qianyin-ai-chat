@@ -339,8 +339,6 @@ const handleSend = async () => {
 
   .message-list {
     padding: 0 20px;
-    opacity: 0;
-    transform: translateY(-20px);
   }
 }
 
